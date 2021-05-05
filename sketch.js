@@ -14,5 +14,4 @@ function draw() {
   background("yellow");
   
   console.log("Area of triangle"area);
-  drawSprites();
 }
